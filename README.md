@@ -5,4 +5,4 @@
 ## طريقة التشغيل:
 
 ```bash
-python fox.pyc
+python falcon.pyc
